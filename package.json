@@ -1,0 +1,20 @@
+{
+  "name": "core7",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "dist/core7.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comet11x/core7.git"
+  },
+  "author": "comet11x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Comet11x/core7/issues"
+  },
+  "homepage": "https://github.com/Comet11x/core7#readme"
+}
